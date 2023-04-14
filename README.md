@@ -2,11 +2,10 @@
 
 This practice is based on the Esp32_I2C_Slave example.
 
-This practice aims to make Esp32 work as Master and Slave at the same time.
+This practice aims to make a Esp32 work as Master and Slave at the same time.
 
 # Wiring
 The left esp32 master's I2C IO is connected to a tested I2C device and the right esp32 slave IO.
-
 The right esp32 master's I2C IO is connected to a tested I2C device and the left esp32 slave IO.
 
 # Coding
